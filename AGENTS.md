@@ -8,6 +8,8 @@ This repository implements a FIFA 22 data-science workflow. Run the notebooks in
 
 Create one Markdown file in `docs/specs/` for each feature or change. Use a numeric prefix and descriptive slug, for example `docs/specs/001-data-validation.md`. Each specification must state its objective, functional and technical requirements, validation tests, minimum acceptance criteria, and a numbered implementation task list (`1.`, `2.`, `3.`). Keep task numbering stable while work is in progress so commits and pull requests can reference a specific task.
 
+After completing an implementation task, immediately update the corresponding specification to mark that task as completed. When every task and acceptance criterion has been satisfied, update the specification status to `Finalizada`. Do not report work as complete while its specification still shows it as pending.
+
 ## Setup and Development Commands
 
 Use Python 3.10 or newer and, preferably, an isolated virtual environment.
