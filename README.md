@@ -8,7 +8,8 @@ seguindo um fluxo completo de ciência de dados, da coleta à comunicação dos
 resultados em um dashboard interativo.
 
 > **Repositório:** https://github.com/joaoow1/trabalhodatascience
-> **Autor(es):** *(preencher)*
+> **Dashboard online:** https://trabalhodatascience-m4yyawhcs6hnbunakukzdb.streamlit.app
+> **Autor(es):** João Otávio Quevedo, Eduardo Hoppen, Leonardo Cologneze e Mateus Gomes
 
 ---
 
@@ -161,10 +162,12 @@ O dashboard abre em `http://localhost:8501` e possui três abas: **Explorador**
 (filtros e gráficos), **Perfis** (clusters do K-Means) e **Simulador de Valor**
 (ajuste os atributos e veja o valor previsto pelo modelo).
 
-> **Dashboard online:** *(adicionar aqui o link após publicar no Streamlit
-> Community Cloud)*
+> **Dashboard online:** https://trabalhodatascience-m4yyawhcs6hnbunakukzdb.streamlit.app
 
 ---
 
 ## 👤 Autor(es)
-*(preencher com o(s) nome(s) do(s) integrante(s))*
+- João Otávio Quevedo
+- Eduardo Hoppen
+- Leonardo Cologneze
+- Mateus Gomes
